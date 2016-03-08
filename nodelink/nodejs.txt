@@ -1,0 +1,3 @@
+http://www.runoob.com/nodejs/nodejs-buffer.html
+http://ourjs.com/detail/529ca5950cb6498814000005
+http://www.imooc.com/course/list?c=nodejs&mc_marking=025c7b59cd02ef9312c0954630e8cb31&mc_channel=sgnodejs&mc_billing=cpc&mc_keywords=nodejs%C8%EB%C3%C5&mc_position=%CE%C4%D7%D6%C1%B4&mc_business=

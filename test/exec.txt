@@ -1,0 +1,9 @@
+var exec=require("child_process").exec;
+exec("dir /l",function(error,stdout,stderr)
+	{
+		console.log(error);
+		response.writeHead(200,{"Content-Type":"text/plain"});
+		response.write("hellp upload");
+		response.end();
+		
+	});	
