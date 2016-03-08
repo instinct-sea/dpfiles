@@ -1,0 +1,1 @@
+function(open,text)函数，若open为函数，text为变量；如果两个参数调换位置，则无法识别
